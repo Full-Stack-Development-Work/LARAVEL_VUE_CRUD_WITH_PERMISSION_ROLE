@@ -10,6 +10,7 @@
 - `php artisan passport:install`
 - `npm install`
 - `npm run dev`
+- `php artisan storage:link`
 - `php artisan serve`
 
 ## Install with Docker
